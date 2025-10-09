@@ -5,13 +5,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d904728f-f440-41a9-9a8b-9c9db86c1b7b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/am1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/am2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/am3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/asd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/l1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/l2-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/l2-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/l3-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/l3-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/l3-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/l4-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/l4-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/l4-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/l5-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/l5-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/l5-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/l6-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/l6-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/l6-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/md1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/md2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/output-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/output-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/output-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/output-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/output-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/output-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/output1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/output2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/output3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/output4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/output5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/output6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/sd1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/sd2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/sd3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/tp1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/tp2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/gambar/tp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laporan/laporan2/laporan.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul_3/ArrayDuaDimensi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul_3/ArrayMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul_3/ArraySatuDimensi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul_3/MethodDasar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul_3/StringDasar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul_3/TextProcessing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul_3/latihan/latihan1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul_3/latihan/latihan2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul_3/latihan/latihan3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul_3/latihan/latihan4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul_3/latihan/latihan5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modul_3/latihan/latihan6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laporan/laporan1/laporan.md" beforeDir="false" afterPath="$PROJECT_DIR$/laporan/laporan1/laporan.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,33 +79,59 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="33HjgzisF7QjTRYK3o6iaKlwcvN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ForLoopDemo.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/KULIAH SEMESTER 3/Prak Berorientasi Objek - Pak Reza/praktikum-pbo-2024573010085&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayDuaDimensi.executor": "Run",
+    "Application.ArrayMethod.executor": "Run",
+    "Application.ArraySatuDimensi.executor": "Run",
+    "Application.ForLoopDemo.executor": "Run",
+    "Application.MethodDasar.executor": "Run",
+    "Application.StringDasar.executor": "Run",
+    "Application.TextProcessing.executor": "Run",
+    "Application.latihan1.executor": "Run",
+    "Application.latihan2.executor": "Run",
+    "Application.latihan3.executor": "Run",
+    "Application.latihan4.executor": "Run",
+    "Application.latihan5.executor": "Run",
+    "Application.latihan6.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/KULIAH SEMESTER 3/Prak Berorientasi Objek - Pak Reza/praktikum-pbo-2024573010085/laporan/laporan2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "Settings.Markdown",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\KULIAH SEMESTER 3\Prak Berorientasi Objek - Pak Reza\praktikum-pbo-2024573010085\laporan\laporan2\gambar" />
+      <recent name="D:\KULIAH SEMESTER 3\Prak Berorientasi Objek - Pak Reza\praktikum-pbo-2024573010085\src\modul_3" />
+    </key>
+    <key name="ImportExportFile.TargetDir.RECENT_KEYS">
+      <recent name="D:\KULIAH SEMESTER 3\Prak Berorientasi Objek - Pak Reza" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -65,10 +150,25 @@
       <workItem from="1758981020028" duration="470000" />
       <workItem from="1759068769168" duration="2246000" />
       <workItem from="1759373867643" duration="815000" />
+      <workItem from="1759374976570" duration="241000" />
+      <workItem from="1759891722039" duration="106000" />
+      <workItem from="1759916755432" duration="1512000" />
+      <workItem from="1759919792180" duration="602000" />
+      <workItem from="1759952921025" duration="23000" />
+      <workItem from="1759952981050" duration="176000" />
+      <workItem from="1759953186974" duration="22000" />
+      <workItem from="1759953232880" duration="160000" />
+      <workItem from="1759953488094" duration="702000" />
+      <workItem from="1759972055616" duration="5544000" />
+      <workItem from="1759977703146" duration="312000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
