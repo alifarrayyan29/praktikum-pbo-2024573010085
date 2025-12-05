@@ -1,4 +1,4 @@
-# Laporan Praktikum Pemrograman Berorientasi Objek
+# Laporan Modul 3: Dasar Pemograman Java Lanjutan
 **Mata Kuliah:** Praktikum Pemrograman Berorientasi Objek  
 **Nama:** Muhammad Alif Arrayyan  
 **NIM:** 2024573010085  
@@ -21,7 +21,7 @@ Array adalah struktur data homogen yang menyimpan kumpulan nilai dengan tipe dat
 
 ### Langkah Praktikum
 1. Membuat package `modul_3` dan class `ArraySatuDimensi.java`.
-2. Mendeklarasikan dan menginisialisasi array integer `nilaiSiswa`.
+2. Mendeklarasikan dan menginisialixsasi array integer `nilaiSiswa`.
 3. Menambahkan perulangan *enhanced for* untuk mencari nilai tertinggi dan terendah dalam array.
 4. Menampilkan hasil array, akses elemen spesifik, serta hasil pencarian nilai ekstrem.
 
